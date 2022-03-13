@@ -5,7 +5,7 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
           <h2>Mesa de regalos</h2>
-          <p><<b>Es probable que muchos artículos aparezcan como no disponibles. Eso es porque el artículo no existe en México, pero sí en Seattle. Puedes continuar con la compra, al final se enviará a Seattle.</b></p>
+          <p><b>Es probable que muchos artículos aparezcan como no disponibles. Eso es porque el artículo no existe en México, pero sí en Seattle. Puedes continuar con la compra, al final se enviará a Seattle.</b></p>
           <a href=" https://www.amazon.com/baby-reg/ricardo-hernandez-daniela-miro-august-2022-seattle/YCYG8RS6VUCM ">
             <img src="img/baby-reg.png" className="img-responsive" alt="" />{" "}
           </a>
