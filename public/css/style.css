@@ -224,6 +224,9 @@ header .intro-text {
 }
 
 @media (max-width: 768px) {
+  .intro {
+    background: url(../img/intro-bg-small.png) center center no-repeat;
+  }
   #about img {
     width: 80%;
     margin: 0 auto;
