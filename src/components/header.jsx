@@ -5,9 +5,7 @@ export const Header = (props) => {
         <div className='overlay'>
           <div className='container'>
             <div className='row'>
-              <div className='col-md-8 col-md-offset-2 intro-text'>
-                  <span></span>
-                
+              <div className='col-md-12 intro-text'>                
                 <h1>Daniela & Ricardo's Baby Girl</h1>
                 <p className="intro-text-subtitle">Baby shower</p>
                 <a

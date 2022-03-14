@@ -192,7 +192,7 @@ header .intro-text {
   left: 0;
 }
 #registry img {
-  width: 90%;
+  width: 100%;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
   margin-bottom: 50px;
 }
