@@ -37,9 +37,9 @@ p.intro {
 }
 .section-title h2 {
   position: relative;
-  margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  line-height: 40px;
 }
 .section-title h2::after {
   position: absolute;
@@ -215,6 +215,25 @@ header .intro-text {
 #info i {
   color: #e6e6e6;
   font-size: 32px;
+  margin-bottom: 20px;
+}
+
+#faq {
+  padding: 100px 0;
+  background: #f1f1f1;
+}
+
+#faq .question {
+  color: #444;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+#faq .answer {
+  color: #888;
+  font-weight: 300;
+  font-size: 17px;
   margin-bottom: 20px;
 }
 

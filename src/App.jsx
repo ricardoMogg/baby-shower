@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Info } from "./components/info";
+import { Faq } from "./components/faq";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -23,6 +24,7 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Info/>
       <About/>
+      <Faq/>
       <Footer/>
     </div>
   );

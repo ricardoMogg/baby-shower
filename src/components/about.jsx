@@ -9,7 +9,7 @@ export const About = (props) => {
             
             </div>
             <div className="col-xs-12 col-md-6">
-            <a href="https://www.google.com.mx/maps/place/Jardin+Mosada/@19.328962,-99.1214313,17z/data=!3m1!4b1!4m5!3m4!1s0x85ce01da80bc215f:0xbffaeba55ba856b1!8m2!3d19.328962!4d-99.1192426">
+            <a href="https://goo.gl/maps/LkY7vLmmGRPvCKvV6">
             <img src="img/ubicacion-pink.jpg" className="img-responsive" alt="" />
             </a>
           </div>
@@ -29,7 +29,7 @@ export const About = (props) => {
           
           </div>
           <div className="col-xs-12 col-md-6">
-            <a href=" https://www.amazon.com/baby-reg/ricardo-hernandez-daniela-miro-august-2022-seattle/YCYG8RS6VUCM ">
+            <a href="https://www.amazon.com/baby-reg/ricardo-hernandez-daniela-miro-august-2022-seattle/YCYG8RS6VUCM ">
               <img src="img/baby-reg.png" className="img-responsive" alt="" />
             </a>
           </div>
