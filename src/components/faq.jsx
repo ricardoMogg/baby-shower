@@ -38,7 +38,7 @@ export const Faq = (props) => {
                     </div>
                     <div className='answer'>
                         Como quieras, lo importante es pasar un buen rato. Si quieres ir de jeans, shorts, vestido largo, 
-                        smoking, o vestido de abejita, bienvenid@.
+                        smoking, o vestido de abejita, o platano ( 😏 ) bienvenid@.
                     </div>
                 </div>
                 <div className="col-xs-12">
