@@ -37,13 +37,13 @@ export const About = (props) => {
             <li>Da click a la imágen de abajo (baby registry)</li>
             <li>
               En la parte de arriba te sale algo así como "enviar a: (una direccion). Da click ahí
-              <button type="button" className="btn btn-sm btn-primary" onClick={()=>{showImg("../img/mesa_1.jpeg")}}>
+              <button type="button" className="btn btn-sm btn-primary" onClick={()=>{showImg("img/mesa_1.jpeg")}}>
                 Ver imagen
               </button>
             </li>
             <li>
             Casi hasta abajo dice "Introduce un código postal en EE UU". Da click y usa el codigo postal <b style={{"fontSize":"20px"}}>98106</b> 
-             <button type="button" className="btn btn-sm btn-primary" onClick={()=>{showImg("../img/mesa_2.jpeg")}}>
+             <button type="button" className="btn btn-sm btn-primary" onClick={()=>{showImg("img/mesa_2.jpeg")}}>
              Ver imagen
               </button>
             </li>
