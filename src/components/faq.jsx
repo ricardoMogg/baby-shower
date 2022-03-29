@@ -18,6 +18,22 @@ export const Faq = (props) => {
                 </div>
                 <div className="col-xs-12">
                     <div className="question">
+                        Tambien niños?
+                    </div>
+                    <div className='answer'>
+                        Que no todos somos niños? Todos están invitados!
+                    </div>
+                </div>
+                <div className="col-xs-12">
+                    <div className="question">
+                        Hasta mis perritos?
+                    </div>
+                    <div className='answer'>
+                        To.... ah no, perritos no [tristemente] :(
+                    </div>
+                </div>
+                <div className="col-xs-12">
+                    <div className="question">
                         Cómo tengo que ir vestido?
                     </div>
                     <div className='answer'>
